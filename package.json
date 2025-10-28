@@ -1,7 +1,6 @@
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist",
-  // ... other scripts
 }
 {
   "name": "asistente-médico-ia",
